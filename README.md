@@ -1,21 +1,8 @@
 ## Categories
-1. Finance & Economics
-2. Population
-4. Linguistics
-3. Other Resources
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. [Finance & Economics](#finance--economics)
+2. [Population](#population)
+4. [Linguistics](#linguistics)
+3. [Other Resources](#other-resources)
 
 
 ## Finance & Economics
