@@ -1,3 +1,5 @@
+want to contribute? [check guidelines](#contribution-guidelines)
+
 ## Categories
 1. [Finance & Economics](#finance--economics)
 2. [Population](#population)
@@ -16,7 +18,9 @@
  
    <tr>
       <td>
-        <a href="">Daily Currency Exchange Rates 2001-2016 </a>
+        <a href="/data/exratesyearsgeo.xls">
+           Daily Currency Exchange Rates 2001-2016 
+         </a>
       </td>
       <td>
         .xls 
@@ -28,7 +32,7 @@
    
    <tr>
       <td>
-        <a href="">Georgian budget 2012-2016</a>
+        <a href="/data/primaryFInance.zip">Georgian budget 2012-2016</a>
       </td>
       <td>
         .xls 
@@ -51,7 +55,7 @@
  
    <tr>
       <td>
-        <a href="">Georgian Names </a>
+        <a href="/data/georgian_names_csv.zip">Georgian Names </a>
       </td>
       <td>
         .csv 
@@ -74,7 +78,7 @@
  
    <tr>
       <td>
-        <a href="">Georgian Words Database </a>
+        <a href="https://github.com/bumbeishvili/GeoWordsDatabase">Georgian Words Database </a>
       </td>
       <td>
        Mysql db
@@ -105,3 +109,10 @@
       </td>
    </tr>
 </table>
+
+
+## contribution guidelines
+you can do one of the following to contribute
+* open issue and specify what kind of dataset you want to add and where can I find it  
+* clone repo, change anything you want and make pull request  
+* reach and discuss specific details with me 
