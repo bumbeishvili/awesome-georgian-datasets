@@ -100,7 +100,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  
    <tr>
       <td>
-        <a href="https://jumpstart.ge/ka/our-creations/datasets">Jumpstarts Open Data </a>
+        <a href="https://jumpstart.ge/ka/our-creations/datasets">Jumpstart's Open Data </a>
       </td>
       <td>
         url
