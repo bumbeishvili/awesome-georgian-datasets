@@ -18,5 +18,5 @@
 ## Finance & Economics
   [Budget Of Georgia 2012-2016]()
 
-## Finance & Economics
+## Population
   [Georgian citizens firstname and lastnames]()
