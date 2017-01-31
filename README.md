@@ -45,7 +45,22 @@ want to contribute? [check guidelines](#contribution-guidelines)
 [Go Top ⬆ ](#categories)
 
 ## Real Estate
-
+<table>
+ <tr>
+   <th>Name & Link </th>
+   <th>Source</th>
+ </tr>
+ 
+   <tr>
+      <td>
+        <a href="data/RealEstate/RealPropertiesTransactions">Registered real property transactions </a>
+      </td>
+      <td>
+         <a href="https://vizhack.ge/ka/challenges/"> TBC - www.vizhack.ge/ka/challenges/ </a>
+      </td>
+   </tr>
+</table>
+[Go Top ⬆ ](#categories)
 
 ## Population
 <table>
@@ -85,7 +100,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
   
   
 </table>
-[Go Top ⇧ ](#categories)
+[Go Top ⬆](#categories)
 
 
 
