@@ -70,6 +70,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
    </tr>
 </table>
 
+## Elections
+
+Elections of Georgian Parliament 2016 Proportional System 
 
 
 ## Linguistics
@@ -118,5 +121,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
 ## contribution guidelines
 you can do one of the following to contribute
 * open issue and specify what kind of dataset you want to add and where can I find it  
-* clone repo, change anything you want and make pull request  
+* clone repo, change anything you want and make pull request
+  * The data format mus be either .csv or .xls
+  * Please provide a short readme.md for every dataset describing data types and meaning of data along with any usefull information for further processing
+  * Please indicate source of the data and copyrights if apply. The data must be legally obtained with respect of the authors license.   
 * reach and discuss specific details with me 
