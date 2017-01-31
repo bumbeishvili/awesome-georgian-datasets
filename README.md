@@ -32,7 +32,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
    
    <tr>
       <td>
-        <a href="/data/primaryFInance.zip">Georgian budget 2012-2016</a>
+        <a href="https://data.world/bumbeishvili/budget-of-georgia-2012-2016">Georgian budget 2012-2016</a>
       </td>
       <td>
         .xls 
