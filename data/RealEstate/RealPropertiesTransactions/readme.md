@@ -1,4 +1,4 @@
- TBC Bank introduced this data for data visualisation hackathon (organized by Jumpstart)
+ TBC Bank has introduced this data for data visualisation hackathon (organized by Jumpstart)
  
  
  Source : - https://vizhack.ge/ka/challenges/
