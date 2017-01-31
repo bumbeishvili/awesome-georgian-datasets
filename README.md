@@ -18,7 +18,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  
    <tr>
       <td>
-        <a href="/data/exratesyearsgeo.xls">
+        <a href="https://data.world/bumbeishvili/exchange-rates-2001-2016">
            Daily Currency Exchange Rates 2001-2016 
          </a>
       </td>
