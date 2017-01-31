@@ -140,5 +140,6 @@ you can do one of the following to contribute
   * Prefered data formats:  either .csv or .xls 
   * Please provide a short readme.md for every dataset describing data types and meaning of data along with any usefull information for further processing
   * Please indicate source of the data and copyrights if apply. The data must be legally obtained with respect of the authors license.   
-* reach and discuss specific details with me 
+* reach and discuss specific details with me   
+
 [Go Top ⬆ ](#categories)
