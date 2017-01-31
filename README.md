@@ -14,8 +14,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
 
  <tr>
    <th>Name & Link </th>
-   <th>Format</th>
-   <th>Size</th>
+   <th>Source</th>
  </tr>
  
    <tr>
@@ -25,10 +24,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
          </a>
       </td>
       <td>
-        .xls 
-      </td>
-      <td>
-        10 mb
+         <a href="https://www.nbg.gov.ge/index.php?m=582">
+           NBG - www.nbg.gov.ge
+         </a>
       </td>
    </tr>
    
@@ -37,10 +35,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://data.world/bumbeishvili/budget-of-georgia-2012-2016">Georgian budget 2012-2016</a>
       </td>
       <td>
-        .xls 
-      </td>
-      <td>
-        0.5 mb
+         <a href="http://biujeti.jumpstart.ge/">
+            jumpstart - www.biujeti.jumpstart.ge
+         </a>
       </td>
    </tr>
  
@@ -54,8 +51,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
 <table>
  <tr>
    <th>Name & Link </th>
-   <th>Format</th>
-   <th>Size</th>
+   <th>Source</th>
  </tr>
  
    <tr>
@@ -63,10 +59,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="/data/georgian_names_csv.zip">Georgian Names </a>
       </td>
       <td>
-        .csv 
-      </td>
-      <td>
-        40 mb
+         <a href="http://mashasada.me/ka"> jumpstart - www.mashasada.me </a>
+        
       </td>
    </tr>
 </table>
@@ -77,13 +71,19 @@ want to contribute? [check guidelines](#contribution-guidelines)
 <table>
  <tr>
    <th>Name & Link </th>
+   <th>Major source</th>
  </tr>
  
    <tr>
       <td>
         <a href="/data/elections/parliament2016">Elections of Georgian Parliament 2016 Proportional System  </a>
       </td>
+          <td>
+        <a href="http://cesko.ge/">cesko - www.cesko.ge </a>
+      </td>
    </tr>
+  
+  
 </table>
 [Go Top ⇧ ](#categories)
 
@@ -94,8 +94,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
 <table>
  <tr>
    <th>Name & Link </th>
-   <th>Format</th>
-   <th>Size</th>
+   <th>Source</th>
  </tr>
  
    <tr>
@@ -103,10 +102,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://github.com/bumbeishvili/GeoWordsDatabase">Georgian Words Database </a>
       </td>
       <td>
-       Mysql db
-      </td>
-      <td>
-        40 mb
+        Books
       </td>
    </tr>
 </table>
@@ -116,18 +112,11 @@ want to contribute? [check guidelines](#contribution-guidelines)
 <table>
  <tr>
    <th>Name & Link </th>
-   <th>Format</th>
-   <th>Size</th>
  </tr>
  
    <tr>
       <td>
         <a href="https://jumpstart.ge/ka/our-creations/datasets">Jumpstart's Open Data </a>
-      </td>
-      <td>
-        url
-      </td>
-      <td>
       </td>
    </tr>
 </table>
