@@ -72,7 +72,20 @@ want to contribute? [check guidelines](#contribution-guidelines)
 
 ## Elections
 
-Elections of Georgian Parliament 2016 Proportional System 
+<table>
+ <tr>
+   <th>Name & Link </th>
+ </tr>
+ 
+   <tr>
+      <td>
+        <a href="/data/elections/parliament2016">Elections of Georgian Parliament 2016 Proportional System  </a>
+      </td>
+   </tr>
+</table>
+
+
+
 
 
 ## Linguistics
