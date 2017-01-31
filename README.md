@@ -45,6 +45,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
    </tr>
  
 </table>
+[Go Top ⬆ ](#categories)
 
 ## Real Estate
 
@@ -69,6 +70,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
+[Go Top ⬆ ](#categories)
 
 ## Elections
 
@@ -83,7 +85,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
-
+[Go Top ⇧ ](#categories)
 
 
 
@@ -108,7 +110,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
-
+[Go Top ⬆ ](#categories)
 
 ## Other Resources
 <table>
@@ -129,7 +131,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
-
+[Go Top ⬆ ](#categories)
 
 ## contribution guidelines
 you can do one of the following to contribute
@@ -139,3 +141,4 @@ you can do one of the following to contribute
   * Please provide a short readme.md for every dataset describing data types and meaning of data along with any usefull information for further processing
   * Please indicate source of the data and copyrights if apply. The data must be legally obtained with respect of the authors license.   
 * reach and discuss specific details with me 
+[Go Top ⬆ ](#categories)
