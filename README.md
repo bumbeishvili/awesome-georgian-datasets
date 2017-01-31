@@ -53,7 +53,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  
    <tr>
       <td>
-        <a href="data/RealEstate/RealPropertiesTransactions">Registered real property transactions </a>
+        <a href="data/RealEstate/RealPropertiesTransactions">Registered real property transactions 2010-2016</a>
       </td>
       <td>
          <a href="https://vizhack.ge/ka/challenges/"> TBC - www.vizhack.ge/ka/challenges/ </a>
