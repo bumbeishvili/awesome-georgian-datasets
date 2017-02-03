@@ -42,7 +42,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
    </tr>
  
 </table>
-[Go Top ⬆ ](#categories)
+<!-- [Go Top ⬆ ](#categories) -->
 
 ## Real Estate
 <table>
@@ -60,7 +60,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
-[Go Top ⬆ ](#categories)
+<!-- [Go Top ⬆ ](#categories)-->
 
 ## Population
 <table>
@@ -79,7 +79,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
-[Go Top ⬆ ](#categories)
+<!-- [Go Top ⬆ ](#categories)-->
 
 ## Elections
 
@@ -100,7 +100,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
   
   
 </table>
-[Go Top ⬆](#categories)
+<!-- [Go Top ⬆](#categories)-->
 
 
 
@@ -121,7 +121,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
-[Go Top ⬆ ](#categories)
+<!-- [Go Top ⬆ ](#categories)-->
 
 ## Other Resources
 <table>
