@@ -43,8 +43,10 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
       <td>
        <a href="http://biujeti.jumpstart.ge/">
-            www.biujeti.jumpstart.ge
-         </a>
+            biujeti.jumpstart.ge
+         </a> 
+         <br>
+         <a href="https://bumbeishvili.github.io/georgian-budget-bubble/">bubble visualisation</a>
       </td>
    </tr>
  
