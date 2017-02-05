@@ -15,6 +15,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Source</th>
+   <th>Visualizations</th>
  </tr>
  
    <tr>
@@ -28,6 +29,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
            NBG - www.nbg.gov.ge
          </a>
       </td>
+      <td> - </td>
    </tr>
    
    <tr>
@@ -35,8 +37,13 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://data.world/bumbeishvili/budget-of-georgia-2012-2016">Georgian budget 2012-2016</a>
       </td>
       <td>
-         <a href="http://biujeti.jumpstart.ge/">
-            jumpstart - www.biujeti.jumpstart.ge
+         <a href="https://jumpstart.ge/">
+            Jumpstart
+         </a>
+      </td>
+      <td>
+       <a href="http://biujeti.jumpstart.ge/">
+            www.biujeti.jumpstart.ge
          </a>
       </td>
    </tr>
@@ -49,6 +56,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Source</th>
+  
  </tr>
  
    <tr>
@@ -67,6 +75,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Source</th>
+    <th>Visualizations</th>
  </tr>
  
    <tr>
@@ -74,7 +83,12 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="/data/georgian_names_csv.zip">Georgian Names </a>
       </td>
       <td>
-         <a href="http://mashasada.me/ka"> jumpstart - www.mashasada.me </a>
+         <a href="https://jumpstart.ge/">
+            Jumpstart
+         </a>
+      </td>
+      <td>
+         <a href="http://mashasada.me/ka">www.mashasada.me </a>
         
       </td>
    </tr>
@@ -87,15 +101,24 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Major source</th>
+   <th>Visualizations</th>
+  
  </tr>
  
    <tr>
       <td>
         <a href="/data/elections/parliament2016">Elections of Georgian Parliament 2016 Proportional System  </a>
       </td>
-          <td>
-        <a href="http://cesko.ge/">cesko - www.cesko.ge </a>
+      <td>
+        <a href="http://cesko.ge/">cesko</a>
       </td>
+      <td>
+      
+       <a href="https://on.ge/elections/2016/results"> on.ge </a> <br/>
+      <a href="http://results20161008.cec.gov.ge/"> cec.gov.ge </a> <br/>
+        <a href="http://polls.ge/"> polls.ge </a>
+      </td>
+ 
    </tr>
   
   
@@ -110,6 +133,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Source</th>
+   <th>Visualizations & Statistics</th>
  </tr>
  
    <tr>
@@ -117,7 +141,10 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://github.com/bumbeishvili/GeoWordsDatabase">Georgian Words Database </a>
       </td>
       <td>
-        Books
+        Books & Scraping
+      </td>
+      <td>
+        <a href="http://bumbeishvili.github.io/GeoWordsDatabase/ "> Some statistics  </a>
       </td>
    </tr>
 </table>
