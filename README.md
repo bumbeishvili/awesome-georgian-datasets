@@ -46,7 +46,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
             biujeti.jumpstart.ge
          </a> 
          <br>
-         <a href="https://bumbeishvili.github.io/georgian-budget-bubble/">bubble visualisation</a>
+         <a href="https://bumbeishvili.github.io/georgian-budget-bubble/">bubbles</a>
       </td>
    </tr>
  
