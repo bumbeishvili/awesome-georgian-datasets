@@ -34,7 +34,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
    
    <tr>
       <td>
-        <a href="https://data.world/bumbeishvili/budget-of-georgia-2012-2016">Georgian budget 2012-2016</a>
+         <h6> <a href="https://data.world/bumbeishvili/budget-of-georgia-2012-2016">
+       Georgian budget 2012-2016 
+           </a></h6>
       </td>
       <td>
          <a href="https://jumpstart.ge/">
