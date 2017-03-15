@@ -92,8 +92,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
          </a>
       </td>
       <td>
-         <a href="http://mashasada.me/ka">www.mashasada.me </a>
-        
+         <a href="http://mashasada.me/ka">www.mashasada.me </a> 
       </td>
    </tr>
 </table>
