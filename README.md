@@ -116,9 +116,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="http://cesko.ge/">cesko</a>
       </td>
       <td>
-      
-       <a href="https://on.ge/elections/2016/results"> on.ge </a> <br/>
-      <a href="http://results20161008.cec.gov.ge/"> cec.gov.ge </a> <br/>
+        <a href="https://on.ge/elections/2016/results"> on.ge </a> <br/>
+        <a href="http://results20161008.cec.gov.ge/"> cec.gov.ge </a> <br/>
         <a href="http://polls.ge/"> polls.ge </a>
       </td>
  
