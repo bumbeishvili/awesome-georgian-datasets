@@ -5,6 +5,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
 3. [Real Estate](#real-estate)
 2. [Population](#population)
 4. [Linguistics](#linguistics)
+1. [Maps](#maps)
 3. [Other Resources](#other-resources)
 
 
@@ -147,6 +148,25 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
       <td>
         <a href="http://bumbeishvili.github.io/GeoWordsDatabase/ "> Some statistics  </a>
+      </td>
+   </tr>
+</table>
+<!-- [Go Top ⬆ ](#categories)-->
+
+
+## Maps
+<table>
+ <tr>
+   <th>Name & Link </th>
+   <th>Source</th>
+ </tr>
+ 
+   <tr>
+      <td>
+        <a href="https://github.com/bumbeishvili/geojson-georgian-regions">GeoJson For Georgian Regions </a>
+      </td>
+      <td>
+        -
       </td>
    </tr>
 </table>
