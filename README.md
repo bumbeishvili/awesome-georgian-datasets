@@ -21,9 +21,11 @@ want to contribute? [check guidelines](#contribution-guidelines)
  
    <tr>
       <td>
+      <h6>
         <a href="https://data.world/bumbeishvili/exchange-rates-2001-2016">
            Daily Currency Exchange Rates 2001-2016 
          </a>
+         </h6>
       </td>
       <td>
          <a href="https://www.nbg.gov.ge/index.php?m=582">
