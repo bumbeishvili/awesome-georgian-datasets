@@ -175,6 +175,17 @@ want to contribute? [check guidelines](#contribution-guidelines)
          <a href="https://bumbeishvili.github.io/geo-vis/populationPerRegions/">Population's density</a>
       </td>
    </tr>
+   <tr>
+      <td>
+        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/maps/districtsAndCities/districts.csv">Georgian district's population & coords </a>
+      </td>
+      <td>
+        http://overpass-turbo.eu/ (2017)
+      </td>
+      <td>
+        -
+      </td>
+   </tr>
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
@@ -190,6 +201,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
    </tr>
 </table>
+
+
+
 
 [Go Top ⬆ ](#categories)
 
