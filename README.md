@@ -161,6 +161,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Source</th>
+   <th>Visualizations</th>
  </tr>
  
    <tr>
@@ -169,6 +170,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
       <td>
         -
+      </td>
+      <td>
+         <a href="https://bumbeishvili.github.io/geo-vis/populationPerRegions/">Population's density</a>
       </td>
    </tr>
 </table>
