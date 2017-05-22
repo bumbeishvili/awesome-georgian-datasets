@@ -12,7 +12,7 @@ out;`
 
 2. Then it was exported as `geoJSON` to `export.geojson` file
 
-3. Then we have converted this geoJSON to csv using <code><a href="https://stedolan.github.io/jq">jq (command-line JSON processor)</a> </code> using following command  
+3. Then we have converted this geoJSON to csv using <code><a href="https://stedolan.github.io/jq">jq (command-line JSON processor)</a> </code> with  command  
   `
     jq -r '.features[]|[.id, .properties."name:ka", .properties."name:en", .geometry.coordinates[0], .geometry.coordinates[1]]|@csv' export.geojson
   `
