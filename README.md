@@ -177,7 +177,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
    </tr>
    <tr>
       <td>
-        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/maps/districtsAndCities/readme.md">Georgian district's population & coords </a>
+        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/tree/master/data/maps/districtsAndCities">Georgian district's population & coords </a>
       </td>
       <td>
         http://overpass-turbo.eu/ (2017)
