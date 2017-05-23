@@ -196,10 +196,19 @@ want to contribute? [check guidelines](#contribution-guidelines)
       <td>
         -
       </td>
+       <tr>
+      <td>
+        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/tree/master/data/maps/villages">Georgian Villages </a>
+      </td>
+      <td>
+        http://overpass-turbo.eu/ (2017)
+      </td>
+      <td>
+          <a href="https://bumbeishvili.github.io/geo-vis/populatedAreas/index.html">villages</a>
+      </td>
    </tr>
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
-
 ## Other Resources
 <table>
  <tr>
