@@ -204,9 +204,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
         http://overpass-turbo.eu/ (2017)
       </td>
       <td>
-          <a href="https://bumbeishvili.github.io/geo-vis/populatedAreas/bar.html">village population 3d bars</a>
-          <a href="https://bumbeishvili.github.io/geo-vis/populatedAreas/index.html">all vilages</a>
-          
+          1. <a href="https://bumbeishvili.github.io/geo-vis/populatedAreas/bar.html">village population 3d bars</a> </br>
+          2. <a href="https://bumbeishvili.github.io/geo-vis/populatedAreas/index.html">all vilage bubbles</a>
       </td>
    </tr>
 </table>
