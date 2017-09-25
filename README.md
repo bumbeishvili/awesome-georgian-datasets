@@ -166,13 +166,13 @@ want to contribute? [check guidelines](#contribution-guidelines)
    
    <tr>
       <td>
-        <a href="https://github.com/bumbeishvili/GeoWordsDatabase/tree/master/DifferentDatasets/Scraped">Giorgi Jvardize / Georgian words </a>
+        <a href="https://github.com/bumbeishvili/GeoWordsDatabase/tree/master/DifferentDatasets/Scraped">Giorgi Jvaridze / Georgian words </a>
       </td>
       <td>
         Books & Scraping
       </td>
       <td>
-        <a href="https://bl.ocks.org/bumbeishvili/raw/9ca6cdcfdd50b36af09c0b9d729a4adb/2d941a6fbba72c7cdfba6e2b947671a43cc1f70c/"> Most Used Words  </a>
+        <a href="https://bl.ocks.org/bumbeishvili/raw/9ca6cdcfdd50b36af09c0b9d729a4adb/5668cbad3955e90b8636d184f241adedb63872fc/"> Most Used Words  </a>
       </td>
    </tr>
    
