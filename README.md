@@ -187,6 +187,30 @@ want to contribute? [check guidelines](#contribution-guidelines)
          &nbsp;
      </td>
   </tr>
+  
+   <tr>
+    <td>
+        <a href="https://github.com/sandrinio1/GeorgianWordsDataBase"> sandrinio( Sandro Sukhitashvili) / GeoWordsDatabase </a>
+     </td>
+     <td>
+         Scraping
+     </td>
+     <td>
+         &nbsp;
+     </td>
+  </tr>
+  
+  <tr>
+    <td>
+        <a href="http://crubadan.org/languages/ka"> Kevin Scannell / Krubadan </a>
+     </td>
+     <td>
+        Scraping
+     </td>
+     <td>
+         &nbsp;
+     </td>
+  </tr>
    
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
