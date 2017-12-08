@@ -202,7 +202,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
   
   <tr>
     <td>
-        <a href="http://crubadan.org/languages/ka"> Kevin Scannell / Krubadan </a>
+        <a href="http://crubadan.org/languages/ka"> Kevin Scannell / Krubadan / Georgian Words </a>
      </td>
      <td>
         Scraping
