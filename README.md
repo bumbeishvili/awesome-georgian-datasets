@@ -221,7 +221,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
         Merging
       </td>
       <td>
-        <a href="https://github.com/irakli97/Frequency_Dictionary_GE_363_202"> Some statistics  </a>
+        &nbsp;
       </td>
  </tr>
  
