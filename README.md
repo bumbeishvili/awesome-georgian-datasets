@@ -212,6 +212,19 @@ want to contribute? [check guidelines](#contribution-guidelines)
      </td>
   </tr>
    
+   
+ <tr>
+      <td>
+        <a href="https://github.com/irakli97/Frequency_Dictionary_GE_363_202"> Irakli Koberidze / Frequency Dictionary </a>
+      </td>
+      <td>
+        Merging
+      </td>
+      <td>
+        &nbsp;
+      </td>
+ </tr>
+ 
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
