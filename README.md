@@ -225,6 +225,18 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
  </tr>
  
+  <tr>
+      <td>
+        <a href="https://github.com/igobronidze/HRS_Training_Data"> igobronidze / 40000+  handwritten georgian characters </a>
+      </td>
+      <td>
+          &nbsp;
+      </td>
+      <td>
+        &nbsp;
+      </td>
+ </tr>
+ 
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
