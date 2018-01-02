@@ -7,7 +7,7 @@
 ```
 area[name="საქართველო"];
 (node["place"~"town|city"](area););
-out;`
+out;
 ```
 
 2. Then it was exported as `geoJSON` to `export.geojson` file
