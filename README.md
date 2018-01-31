@@ -23,12 +23,12 @@ want to contribute? [check guidelines](#contribution-guidelines)
       <td>
       <h6>
         <a href="https://data.world/bumbeishvili/exchange-rates-2001-2016">
-           Daily Currency Exchange Rates 2001-2016 
+           Daily Currency Exchange Rates 2001-2017 
          </a>
          </h6>
       </td>
       <td>
-         <a href="https://www.nbg.gov.ge/index.php?m=582">
+         <a href="/data/exratesyearsgeo.xls">
            NBG - www.nbg.gov.ge
          </a>
       </td>
