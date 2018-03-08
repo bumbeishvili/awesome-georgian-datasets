@@ -237,6 +237,18 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
  </tr>
  
+ <tr>
+      <td>
+        <a href="https://github.com/Anbani/anbani.db"> georgegach / anbani.db (texts, names, alphabet, lorem...)</a>
+      </td>
+      <td>
+          Various
+      </td>
+      <td>
+        &nbsp;
+      </td>
+ </tr>
+ 
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
