@@ -7,6 +7,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
 4. [Linguistics](#linguistics)
 1. [Maps](#maps)
 3. [Other Resources](#other-resources)
+1. [Surveys](#surveys)
 
 
 
@@ -253,14 +254,31 @@ want to contribute? [check guidelines](#contribution-guidelines)
 <!-- [Go Top ⬆ ](#categories)-->
 
 
-## Maps
+## Surveys
 <table>
  <tr>
    <th>Name & Link </th>
-   <th>Source</th>
+   <th>Responses </th>
    <th>Visualizations</th>
  </tr>
  
+   <tr>
+      <td>
+        <a href="https://goo.gl/forms/QzaIwgeCM4VrwIOx1">Georgian IT people's survey - 2018 </a>
+      </td>
+      <td>
+        -
+      </td>
+      <td>
+         <a href="https://docs.google.com/forms/d/1q_aXGk7dZTBv6ZICQVgMU7DnkidLM-vDzYBCl2iX1YQ/viewanalytics">Google's summray</a> </br>
+        <a href="https://beta.observablehq.com/d/b4735743d739f925">Observable Exploration</a>
+      </td>
+   </tr>
+ 
+</table>
+<!-- [Go Top ⬆ ](#categories)-->
+
+
    <tr>
       <td>
         <a href="https://github.com/bumbeishvili/geojson-georgian-regions">GeoJson For Georgian Regions </a>
@@ -296,6 +314,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
    </tr>
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
+
 
 ## Other Resources
 <table>
