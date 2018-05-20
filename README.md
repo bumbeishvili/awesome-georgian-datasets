@@ -267,7 +267,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://goo.gl/forms/QzaIwgeCM4VrwIOx1">Georgian IT people's survey - 2018 </a>
       </td>
       <td>
-        -
+        <a href="  https://docs.google.com/spreadsheets/d/1Qgzi3cjn05ATY0-VjU06Cz3YtFPghjE6v1B7Q_FELNc/edit?usp=forms_web_b#gid=1722625935">Responses  </a>
+    
       </td>
       <td>
          <a href="https://docs.google.com/forms/d/1q_aXGk7dZTBv6ZICQVgMU7DnkidLM-vDzYBCl2iX1YQ/viewanalytics">Google's summray</a> </br>
