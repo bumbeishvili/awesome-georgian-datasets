@@ -6,8 +6,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
 2. [Population](#population)
 4. [Linguistics](#linguistics)
 1. [Maps](#maps)
-3. [Other Resources](#other-resources)
 1. [Surveys](#surveys)
+3. [Other Resources](#other-resources)
 
 
 
@@ -278,7 +278,12 @@ want to contribute? [check guidelines](#contribution-guidelines)
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
-
+<table>
+ <tr>
+   <th>Name & Link </th>
+   <th> Source </th>
+   <th>Visualizations</th>
+ </tr>
    <tr>
       <td>
         <a href="https://github.com/bumbeishvili/geojson-georgian-regions">GeoJson For Georgian Regions </a>
