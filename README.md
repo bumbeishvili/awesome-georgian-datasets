@@ -64,6 +64,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
  <tr>
    <th>Name & Link </th>
    <th>Source</th>
+  <th>Visualizations</th>
   
  </tr>
  
@@ -73,6 +74,9 @@ want to contribute? [check guidelines](#contribution-guidelines)
       </td>
       <td>
          <a href="https://vizhack.ge/ka/challenges/"> TBC - www.vizhack.ge/ka/challenges/ </a>
+      </td>
+      <td>
+          <a href="https://beta.observablehq.com/@bumbeishvili/realty-property-transactions-in-georgia"> Transactions 2016<a/>
       </td>
    </tr>
 </table>
