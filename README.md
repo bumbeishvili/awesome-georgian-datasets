@@ -103,6 +103,17 @@ want to contribute? [check guidelines](#contribution-guidelines)
          <a href="http://mashasada.me/ka">www.mashasada.me </a> 
       </td>
    </tr>
+   <tr>
+      <td>
+        <a href="https://github.com/EMOziko/Georgian-Names-By-Gender">Georgian names by gender </a>
+      </td>
+      <td>
+       <a href="https://github.com/EMOziko">EMOziko - სამოქალაქო რეესტრის ბაზა </a>
+      </td>
+      <td>
+        -
+      </td>
+   </tr>
     <tr>
       <td>
         <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/tree/master/data/maps/districtsAndCities">Georgian district's population & coords </a>
@@ -114,6 +125,7 @@ want to contribute? [check guidelines](#contribution-guidelines)
         -
       </td>
    </tr>
+    
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
