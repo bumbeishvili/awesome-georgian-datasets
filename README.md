@@ -53,6 +53,8 @@ want to contribute? [check guidelines](#contribution-guidelines)
          </a> 
          <br>
          <a href="https://bumbeishvili.github.io/georgian-budget-bubble/">bubbles</a>
+        <br>
+         <a href="https://budgetmonitor.ge/ka">Budget Monitor</a>
       </td>
    </tr>
  
