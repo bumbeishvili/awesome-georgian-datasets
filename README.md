@@ -1,4 +1,4 @@
-want to contribute? [check guidelines](#contribution-guidelines)
+Want to contribute? [check guidelines](#contribution-guidelines)
 
 ## Categories
 1. [Finance & Economics](#finance--economics)
@@ -91,7 +91,16 @@ want to contribute? [check guidelines](#contribution-guidelines)
    <th>Source</th>
     <th>Visualizations</th>
  </tr>
- 
+ <tr>
+      <td>
+        <a href="https://github.com/bumbeishvili/georgian-names">Georgian Names and Lastnames Repo </a>
+      </td>
+      <td>
+            Jumpstart / Soviet Lab 
+      </td>
+      <td>
+      </td>
+   </tr>
    <tr>
       <td>
         <a href="/data/georgian_names_csv.zip">Georgian Names </a>
