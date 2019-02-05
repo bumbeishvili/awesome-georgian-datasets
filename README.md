@@ -23,7 +23,7 @@ Want to contribute? [check guidelines](#contribution-guidelines)
    <tr>
       <td>
       <h6>
-        <a href="/data/exratesyearsgeo.xls">
+        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/finance_economics/rates_2001_2018.csv">
            Daily Currency Exchange Rates 2001-2017 
          </a>
          </h6>
