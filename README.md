@@ -300,6 +300,18 @@ Want to contribute? [check guidelines](#contribution-guidelines)
          <a href="https://docs.google.com/forms/d/1q_aXGk7dZTBv6ZICQVgMU7DnkidLM-vDzYBCl2iX1YQ/viewanalytics">Google's summary</a> </br>
         <a href="https://beta.observablehq.com/d/b4735743d739f925">Observable Exploration</a>
       </td>
+      
+      <td>
+        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/surveys/itsurvey2020eng.csv">Georgian IT people's survey - 2020 </a>
+      </td>
+      <td>
+        <a href=https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/surveys/itsurvey2020eng.csv" >Responses english version (great sample data)  </a>
+      </td>
+      <td>
+        Analysis - https://2020.davidb.dev
+      </td>
+      
+      
    </tr>
  
 </table>
