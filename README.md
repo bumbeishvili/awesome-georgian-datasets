@@ -307,7 +307,7 @@ Want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/surveys/itsurvey2020eng.csv">Georgian IT people's survey - 2020 </a>
       </td>
       <td>
-        <a href=https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/surveys/itsurvey2020eng.csv" >Responses english version (great sample data)  </a>
+        <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/surveys/itsurvey2020eng.csv" >Responses english version (great sample data)  </a>
       </td>
       <td>
         Analysis - https://2020.davidb.dev
