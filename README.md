@@ -301,7 +301,9 @@ Want to contribute? [check guidelines](#contribution-guidelines)
         <a href="https://beta.observablehq.com/d/b4735743d739f925">Observable Exploration</a>
       </td>
       
-      <td>
+   </tr>
+   
+   <tr><td>
         <a href="https://github.com/bumbeishvili/awesome-georgian-datasets/blob/master/data/surveys/itsurvey2020eng.csv">Georgian IT people's survey - 2020 </a>
       </td>
       <td>
@@ -310,9 +312,8 @@ Want to contribute? [check guidelines](#contribution-guidelines)
       <td>
         Analysis - https://2020.davidb.dev
       </td>
+      </tr>
       
-      
-   </tr>
  
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
