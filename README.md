@@ -362,6 +362,17 @@ Want to contribute? [check guidelines](#contribution-guidelines)
           2. <a href="https://bumbeishvili.github.io/geo-vis/populatedAreas/index.html">all vilage bubbles</a>
       </td>
    </tr>
+   <tr>
+      <td>
+        <a href="https://github.com/Paxa/georgia-geo-data">Georgian Verified Streets, Districts & Suburbs (ka/en/ru)</a>
+      </td>
+      <td>
+        <a href="https://maps.gov.ge/">NAPR</a> & <a href="https://www.openstreetmap.org/">OpenStreetMap</a>
+      </td>
+      <td>
+        <a href="https://paxa.github.io/georgia-geo-data/">Interactive Map Viewer</a>
+      </td>
+   </tr>
 </table>
 <!-- [Go Top ⬆ ](#categories)-->
 
